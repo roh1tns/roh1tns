@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @roh1tns
-- 👀 I’m interested in coding, gaming and sports
-- 🌱 I’m currently learning CSE with specialization in AI and ML
-- 📫 How to reach me:
-    -Instagram: @roh_.i.t
-    -Mobile: 8590358949(Also availabe on WhatsApp)
-    -Email: rohitnarayanamangalam@gmail.com
-<!---
-roh1tns/roh1tns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there 👋 , I am  Rohit <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+
+
+## **About Me:**
+Python Developer || Machine learning enthusiast || Learning Web Dev
+
+## **TechStack:**
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+
+
+
+## **Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=cyblogerz&line_height=40&theme=dark">
+</p>
+
+---
+
+## **Github Stats:**
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=roh1tns&hide=stars&show_icons=true&line_height=48&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh1tns&count_private=true&line_height=40&theme=dark">
+
+</p>
+
+---
+
+ <h2 align="center">📫 Reach out to me on</h2>
+  <p align="center">
+    <a href="mailto:rohitnarayanamangalam@gmail.com?subject=Hey%20Pranav,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</p>
