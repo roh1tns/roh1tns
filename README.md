@@ -2,7 +2,7 @@
 
 
 ## **About Me:**
-Python Developer || Machine learning enthusiast || Learning Android Dev
+Python Developer || Machine learning enthusiast
 
 ## **TechStack:**
 
